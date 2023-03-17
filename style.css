@@ -1233,6 +1233,9 @@ padding-bottom: 40px; }
   .hero-text { text-align: left; }
 
   .hero .btn { margin-inline: 0; }
+  .hero .section-title{
+    padding-top: 25px;
+  }
 
 
 
